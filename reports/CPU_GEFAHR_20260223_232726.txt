@@ -1,0 +1,11 @@
+﻿=== CPU-ANALYSE ===
+
+=== Top 5 CPU-Prozesse ===
+Spotify: 3308.17 Sekunden
+Discord: 1558.12 Sekunden
+Spotify: 1057.41 Sekunden
+CefSharp.BrowserSubprocess: 999.58 Sekunden
+ChatGPT: 873.17 Sekunden
+
+HÃ¶chster CPU-Wert: 3308.17 Sekunden
+STATUS: GEFAHR

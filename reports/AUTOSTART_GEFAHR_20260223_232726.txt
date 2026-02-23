@@ -1,0 +1,6 @@
+﻿=== AUTOSTART-CHECK ===
+
+Autostart-EintrÃ¤ge in Registry: 25
+Startup-Ordner EintrÃ¤ge: 0
+
+STATUS: GEFAHR

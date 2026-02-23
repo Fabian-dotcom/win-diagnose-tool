@@ -1,0 +1,14 @@
+﻿=== RAM-ANALYSE ===
+Gesamter RAM: 31.17 GB
+Genutzter RAM: 31.158671875 GB
+Freier RAM: 11.6 MB
+Auslastung: 99.96 %
+
+=== Top 5 RAM-Prozesse ===
+Memory Compression: 2631.41 MB
+ChatGPT: 835.64 MB
+Code: 729.89 MB
+steamwebhelper: 651.94 MB
+explorer: 525.27 MB
+
+STATUS: GEFAHR

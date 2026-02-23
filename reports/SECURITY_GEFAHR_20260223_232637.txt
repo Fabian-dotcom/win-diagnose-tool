@@ -1,0 +1,8 @@
+﻿=== SICHERHEITS-CHECK ===
+Betriebssystem: Windows 11 (Build 26200)
+
+=== Windows Defender ===
+Real-Time Protection: DEAKTIVIERT
+Tamper Protection: Deaktiviert
+
+STATUS: GEFAHR

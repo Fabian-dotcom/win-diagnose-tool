@@ -1,0 +1,183 @@
+﻿=====================================
+SYSTEMDIAGNOSE ZUSAMMENFASSUNG
+=====================================
+Erstellt: 02/23/2026 23:27:27
+Status: _GEFAHR
+
+=== DETAILLIERTE BERICHTE ===
+
+---  ---
+=== AUTOSTART-CHECK ===
+
+Autostart-EintrÃ¤ge in Registry: 25
+Startup-Ordner EintrÃ¤ge: 0
+
+STATUS: GEFAHR
+
+
+---  ---
+=== CPU-ANALYSE ===
+
+=== Top 5 CPU-Prozesse ===
+Spotify: 3308.17 Sekunden
+Discord: 1558.12 Sekunden
+Spotify: 1057.41 Sekunden
+CefSharp.BrowserSubprocess: 999.58 Sekunden
+ChatGPT: 873.17 Sekunden
+
+HÃ¶chster CPU-Wert: 3308.17 Sekunden
+STATUS: GEFAHR
+
+
+---  ---
+=== RAM-ANALYSE ===
+Gesamter RAM: 31.17 GB
+Genutzter RAM: 31.158671875 GB
+Freier RAM: 11.6 MB
+Auslastung: 99.96 %
+
+=== Top 5 RAM-Prozesse ===
+Memory Compression: 2631.41 MB
+ChatGPT: 835.64 MB
+Code: 729.89 MB
+steamwebhelper: 651.94 MB
+explorer: 525.27 MB
+
+STATUS: GEFAHR
+
+
+---  ---
+=== RAM-ANALYSE ===
+Gesamter RAM: 31.17 GB
+Genutzter RAM: 31.158505859375 GB
+Freier RAM: 11.77 MB
+Auslastung: 99.96 %
+
+=== Top 5 RAM-Prozesse ===
+Memory Compression: 2670.41 MB
+ChatGPT: 835.71 MB
+Code: 725.11 MB
+steamwebhelper: 651.94 MB
+explorer: 525.02 MB
+
+STATUS: GEFAHR
+
+
+---  ---
+=== RAM-ANALYSE ===
+Gesamter RAM: 31.17 GB
+Genutzter RAM: 31.158505859375 GB
+Freier RAM: 11.77 MB
+Auslastung: 99.96 %
+
+=== Top 5 RAM-Prozesse ===
+Memory Compression: 2670.39 MB
+ChatGPT: 835.71 MB
+Code: 732.73 MB
+steamwebhelper: 651.94 MB
+explorer: 524.32 MB
+
+STATUS: GEFAHR
+
+
+---  ---
+=== RAM-ANALYSE ===
+Gesamter RAM: 31.17 GB
+Genutzter RAM: 31.158623046875 GB
+Freier RAM: 11.65 MB
+Auslastung: 99.96 %
+
+=== Top 5 RAM-Prozesse ===
+Memory Compression: 2617.62 MB
+ChatGPT: 690.45 MB
+Code: 654.86 MB
+steamwebhelper: 652.52 MB
+explorer: 514.36 MB
+
+STATUS: GEFAHR
+
+
+---  ---
+=== RAM-ANALYSE ===
+Gesamter RAM: 31.17 GB
+Genutzter RAM: 31.15857421875 GB
+Freier RAM: 11.7 MB
+Auslastung: 99.96 %
+
+=== Top 5 RAM-Prozesse ===
+Memory Compression: 2615.9 MB
+ChatGPT: 690.47 MB
+Code: 654.8 MB
+steamwebhelper: 652.53 MB
+explorer: 519.46 MB
+
+STATUS: GEFAHR
+
+
+---  ---
+=== SICHERHEITS-CHECK ===
+Betriebssystem: Windows 11 (Build 26200)
+
+=== Windows Defender ===
+Real-Time Protection: DEAKTIVIERT
+Tamper Protection: Deaktiviert
+
+STATUS: GEFAHR
+
+
+---  ---
+=== SICHERHEITS-CHECK ===
+Betriebssystem: Windows 11 (Build 26200)
+
+=== Windows Defender ===
+Real-Time Protection: DEAKTIVIERT
+Tamper Protection: Deaktiviert
+
+STATUS: GEFAHR
+
+
+---  ---
+=== SICHERHEITS-CHECK ===
+Betriebssystem: Windows 11 (Build 26200)
+
+=== Windows Defender ===
+Real-Time Protection: DEAKTIVIERT
+Tamper Protection: Deaktiviert
+
+STATUS: GEFAHR
+
+
+---  ---
+=== SICHERHEITS-CHECK ===
+Betriebssystem: Windows 11 (Build 26200)
+
+=== Windows Defender ===
+Real-Time Protection: DEAKTIVIERT
+Tamper Protection: Deaktiviert
+
+STATUS: GEFAHR
+
+
+---  ---
+=== SICHERHEITS-CHECK ===
+Betriebssystem: Windows 11 (Build 26200)
+
+=== Windows Defender ===
+Real-Time Protection: DEAKTIVIERT
+Tamper Protection: Deaktiviert
+
+STATUS: GEFAHR
+
+
+---  ---
+=== SICHERHEITS-CHECK ===
+Betriebssystem: Windows 11 (Build 26200)
+
+=== Windows Defender ===
+Real-Time Protection: DEAKTIVIERT
+Tamper Protection: Deaktiviert
+
+STATUS: GEFAHR
+
+
+
