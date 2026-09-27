@@ -3,7 +3,7 @@
 ![Windows](https://img.shields.io/badge/Platform-Windows-blue)  
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-informational)
 
-## 📌 Projektbeschreibung
+## Projektbeschreibung
 
 **Win-Diagnose-Tool** ist ein robustes Windows-Systemdiagnose-Tool für **Windows 10 und Windows 11**, das RAM, CPU, Sicherheitsstatus und Autostart überprüft.  
 Es erstellt automatisch **Reports mit Status-Suffixen** `_OK`, `_HINWEIS`, `_GEFAHR` und bietet **eine übersichtliche Zusammenfassung** aller Checks.
@@ -12,7 +12,7 @@ Das Tool ist für Administratoren, Power-User oder Support-Techniker gedacht, di
 
 ---
 
-## 🗂️ Projektstruktur
+## Projektstruktur
 
 ```
 
@@ -32,7 +32,7 @@ diagnose/
 
 ---
 
-## ⚙️ Features
+## Features
 
 - **Windows-Version erkennen** (Win10 / Win11)  
 - **RAM-Check:** Top 5 Prozesse, Statusberechnung  
@@ -48,7 +48,7 @@ diagnose/
 
 ---
 
-## 💻 Installation & Nutzung
+## Installation & Nutzung
 
 1. **Repository klonen oder ZIP herunterladen**:
 
@@ -81,7 +81,7 @@ start.bat
 
 ---
 
-## 📊 Beispiel-Reports
+## Beispiel-Reports
 
 * `reports/RAM_OK.txt`
 * `reports/SECURITY_HINWEIS.txt`
@@ -92,7 +92,7 @@ Jede Datei enthält **Status, Top-Prozesse oder Details** und einen **Zeitstempe
 
 ---
 
-## 🛠️ Technische Hinweise
+## Technische Hinweise
 
 * **PowerShell 5.1 kompatibel** (Windows 10/11)
 * UTF-8 ohne BOM
@@ -102,7 +102,7 @@ Jede Datei enthält **Status, Top-Prozesse oder Details** und einen **Zeitstempe
 
 ---
 
-## 🔮 Mögliche Erweiterungen
+## Mögliche Erweiterungen
 
 * ASCII-Ladebalken in Monitor-Fenster
 * Blacklist / Whitelist für Prozesse
@@ -115,31 +115,17 @@ Jede Datei enthält **Status, Top-Prozesse oder Details** und einen **Zeitstempe
 
 ---
 
-## ⚖️ Lizenz
+## Lizenz
 
 Dieses Projekt ist unter der **MIT-Lizenz** lizenziert. Du darfst es frei nutzen, modifizieren und weitergeben.
 
 ---
 
-## 📌 Hinweise
+## Hinweise
 
 * Das Tool ist **rein diagnostisch** – es nimmt keine kritischen Änderungen am System vor.
 * Alle Checks laufen **sicher und synchron**.
 * Für Erweiterungen sollte immer ein Backup oder ein Testsystem verwendet werden.
-
----
-
-## 👀 Screenshots (Platzhalter)
-
-```
-[Controller-Fenster]     [Monitor-Fenster mit Spinner & Status]
-+-------------------+    +--------------------------------+
-| 1 - Komplettdiagnose |  | RAM-Analyse: ✔ abgeschlossen   |
-| 2 - Nur RAM          |  | SECURITY: HINWEIS              |
-| 3 - Nur Security     |  | AUTOSTART: OK                  |
-| 4 - Beenden          |  | CPU-Analyse: ✔ abgeschlossen   |
-+-------------------+    +--------------------------------+
-```
 
 ---
 
